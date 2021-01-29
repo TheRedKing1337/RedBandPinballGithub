@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 49b6c4c34ae19134ba02d24f0d7823fb
+  - enabled: 1
+    path: Assets/Scenes/dragonsQuest.unity
+    guid: c7ba40a3d40563a4e9eadc762cdfb6da
+  - enabled: 1
+    path: Assets/Scenes/android.unity
+    guid: 3f7933c1b679c794e84eae29e7760d88
+  - enabled: 1
+    path: Assets/Scenes/crashAndBurn.unity
+    guid: c13a053976231b2458385ff4eef0b96f
+  m_configObjects: {}

@@ -1,0 +1,55 @@
+sound4 - sound for loading ball into launch area
+sound5 - bumper
+sound6 - heavy Bumper
+sound8 - bloop sound when rolling over something
+sound12 - alternate bumper
+sound13 - ?ball dropping on something?
+sound16 - light enabling
+sound17 - alternate bumper
+sound18 - smack sound
+sound19 - powerup something
+sound21 - smack sound
+sound22 - plunger
+sound26 - light enabling
+sound27 - lost pinball
+sound30 - return to base?
+sound34 - hollow hit
+sound45 - another smack
+sound49 - laser shot?
+sound49D - alternate laser shot?
+sound58 - another laser shot
+sound104 - flipperUp
+sound105 - flipperDown
+sound111 - click sound
+sound112 - click sound 2
+sound113 - the thing at the start of hyperspace that spins
+sound240 - ??
+sound243 - an effect
+sound563 - maybe part of game over?
+
+---------------------------------------------------------------
+The string codes for player sound using 
+AudioManager.Instance.Play("flipperUp");
+
+flipperUp	sound of flipper going up
+flipperDown	sound of flipper going down
+bigBumper	sound of bumper hit
+wallBumper	sound of a smaller bumper
+loadPinball	sound of pinball being loaded into chute
+plunger		sound of plunger being released
+death		sound that indicates player lost all active pinballs
+doorClose	sound of door closing
+lightBleep	sound of a bleep
+succes		sound of succes
+oneTimeLaunch	a tick sound
+whoosh		whoosh
+
+
+
+more to be added
+needed:
+a sort of equip sound for getting items
+a "mystical" sound when enchanted your equipment
+
+
+

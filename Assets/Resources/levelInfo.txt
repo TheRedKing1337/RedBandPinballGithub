@@ -1,0 +1,4 @@
+3
+|Dragon's Quest/dragonsQuest/1,0,0,1/dragonsQuest/Een nieuwe tafel ontworpen speciaal voor Red Band Pinball, verzamel de speciale object en versla de draak!
+|NOTIMPLEMENTED/android/0,0,1,1/android/Het eerste bord van het klassieke spel Epic Pinball
+|NOTIMPLEMENTED/crashAndBurn/0,1,0,1/crashAndBurn/Nog een klassieker

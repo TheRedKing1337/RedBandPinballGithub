@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5944699989125170544
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5944699989125170549}
+  - component: {fileID: 5944699989125170548}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5944699989125170549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5944699989125170544}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5944699989125170548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5944699989125170544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3542857a37abc49469b56247b39bee9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: flipperUp
+    clip: {fileID: 8300000, guid: 214d179cb599a684db6b8d3f23498a15, type: 3}
+    source: {fileID: 0}
+  - name: flipperDown
+    clip: {fileID: 8300000, guid: 73c0f6be780aa5541a2342cf82cb20fe, type: 3}
+    source: {fileID: 0}
+  - name: bigBumper
+    clip: {fileID: 8300000, guid: e6e7f77c392c93243a475d0c60644bce, type: 3}
+    source: {fileID: 0}
+  - name: wallBumper
+    clip: {fileID: 8300000, guid: 3b83cb6999ab0084bbac1a7f9bd7757b, type: 3}
+    source: {fileID: 0}
+  - name: loadPinball
+    clip: {fileID: 8300000, guid: 12ef5d85a1f4aac4c93d6ef9475ed68b, type: 3}
+    source: {fileID: 0}
+  - name: plunger
+    clip: {fileID: 8300000, guid: db47cf34f7eb7cd488eee2fd76f8a0ab, type: 3}
+    source: {fileID: 0}
+  - name: death
+    clip: {fileID: 8300000, guid: 2c76c83bc17dc374ca41ba612c58fa2a, type: 3}
+    source: {fileID: 0}
+  - name: doorClose
+    clip: {fileID: 8300000, guid: bf88a921a2c0d414a9088470bfee07fc, type: 3}
+    source: {fileID: 0}
+  - name: lightBleep
+    clip: {fileID: 8300000, guid: 33a0d1dd75b4e244bb9300b9a9c39003, type: 3}
+    source: {fileID: 0}
+  - name: succes
+    clip: {fileID: 8300000, guid: e17a4bf4b87e14b4b8e27cfebdff123c, type: 3}
+    source: {fileID: 0}
+  - name: dragonRoar
+    clip: {fileID: 8300000, guid: 0077c69092e00c04dba066b5441ff65d, type: 3}
+    source: {fileID: 0}
+  - name: dragonBreath
+    clip: {fileID: 8300000, guid: 0b049b64ab108a64f8e494dc01dc9685, type: 3}
+    source: {fileID: 0}
+  - name: oneTimeLaunch
+    clip: {fileID: 8300000, guid: 3f7bc4096171dc74ab295e7cabe38d97, type: 3}
+    source: {fileID: 0}
+  - name: whoosh
+    clip: {fileID: 8300000, guid: 4a8e7aef458383a429344b5a1696f0e9, type: 3}
+    source: {fileID: 0}
+  - name: select
+    clip: {fileID: 8300000, guid: da3d5feb34f58824888eb869ed495664, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: test
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
+  - name: hoverOver
+    clip: {fileID: 8300000, guid: 1636c931e6e97954f9d087799d2dcb6d, type: 3}
+    source: {fileID: 0}
